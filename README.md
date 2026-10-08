@@ -61,9 +61,12 @@ app/src/main/java/com/pemmob/resepku/
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-| Home Screen (Katalog) | Pencarian (Search) | Detail Screen (Bahan) | Detail Screen (Instruksi) |
-|:---:|:---:|:---:|:---:|
-| *(Tempel Foto 1)* | *(Tempel Foto 2)* | *(Tempel Foto 3)* | *(Tempel Foto 4)* |
+| Home Screen (Katalog) | Pencarian (Search) | Detail Screen (Bahan) |
+|:---:|:---:|:---:|
+| <img width="738" height="1600" alt="WhatsApp Image 2026-10-08 at 12 06 48" src="https://github.com/user-attachments/assets/a9aefa16-5b66-4914-80bd-9cd3e41d4339" />
+| <img width="738" height="1600" alt="WhatsApp Image 2026-10-08 at 12 06 49 (1)" src="https://github.com/user-attachments/assets/7f1d748b-50fb-4365-a66b-73e63a48956f" />
+|<img width="738" height="1600" alt="WhatsApp Image 2026-10-08 at 12 06 49" src="https://github.com/user-attachments/assets/3caacdfd-9569-45d3-ae91-2379a72ec535" />
+ *(Tempel Foto 3)* |
 
 ---
 
